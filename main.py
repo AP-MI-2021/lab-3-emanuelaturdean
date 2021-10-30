@@ -16,7 +16,7 @@ def get_longest_concat_is_prime(lst: list[int]) -> list[int]:
         element=str(element)
         listasiruri=listasiruri + element
     listasiruri=int(listasiruri)
-    
+
 
 # print(functie([1,2,3]))
 def citireLista():
